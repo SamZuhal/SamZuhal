@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---Saya masih baru dalam dunia programing, but i have goals to do
+Saya masih baru dalam dunia programing, but i have goals to do
 my goals
 * menguasai 1 bahasa pemograman dengan expert
   - mempelajari OOP
@@ -14,4 +14,3 @@ my goals
 * membuat aplikasi bermanfaat yang dapat digunakan
 this is for now, i will update my goals.
 note: sorry for my bad english.
---->
