@@ -11,6 +11,7 @@ my goals
   - mempelajari MVC
   - mempelajari menggunakan API
 * belajar menggunakan Frameworks
-* membuat aplikasi bermanfaat yang dapat digunakan
+* membuat aplikasi bermanfaat yang dapat digunakan.
+
 this is for now, i will update my goals.
 note: sorry for my bad english.
